@@ -5,9 +5,11 @@
 ## Habilidades
 - Atendimento ao Público
 - Vendas
-- Inglês Intermediário;
 - Excel 2016 - Intermediário
 - Programação em Java - Intermediário
+
+## Experiências 
+  - Analista de segurança CFTV - Intelbras (07/2021 - vaga atual)
 
 # Lógica de Programação: Códigos do NetBeans em ZIP
 - [Sistema de cadastro em PetShop](LogicaDeProgramacao/PetShop)
@@ -21,4 +23,3 @@
 
 # Modelagem de Sistemas
 - [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
-
