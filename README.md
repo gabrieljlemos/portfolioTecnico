@@ -14,5 +14,5 @@
 - [Sistema de cadastro de aluno](LogicaDeProgramacao/Aula2A)
 
 # Banco de Dados 
-- .[Sistema de banco de dados sobre festa](Banco_de_dados/Festa_na_piscina) - Nesse sistema montamos um banco de dados com as informações necessárias para a realização de uma grande festa
+- .[Sistema de banco de dados sobre festa](BancodeDados/FestaNaPiscina)
 
