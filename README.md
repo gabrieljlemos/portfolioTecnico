@@ -14,8 +14,11 @@
 - [Sistema de cadastro de aluno](LogicaDeProgramacao/Aula2A)
 
 # Banco de Dados 
-- [Sistema de banco de dados sobre festa](BancodeDados/FestaNaPiscina)
+- [Sistema de uma festa](BancodeDados/FestaNaPiscina)
 
 # Programação de Aplicativos
-- [Aplicativo que calcula horários](ProgramacaoDeAplicativos/CalculadoraDeHoras)
+- [Calculadora de horários](ProgramacaoDeAplicativos/CalculadoraDeHoras)
+
+# Modelagem de Sistemas
+- [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
 
