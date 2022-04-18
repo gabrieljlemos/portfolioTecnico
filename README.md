@@ -14,5 +14,5 @@
 - [Sistema de cadastro de aluno](LogicaDeProgramacao/Aula2A)
 
 # Banco de Dados 
-- .[Sistema de banco de dados sobre festa](BancodeDados/FestaNaPiscina)
+- [Sistema de banco de dados sobre festa](BancodeDados/FestaNaPiscina)
 
