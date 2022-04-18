@@ -1,6 +1,6 @@
-### Portfólio da Área Técnica da Escola S
-## Gabriel José Lemos, 17 anos - 3A
-## São José, 2021
+## Portfólio da Área Técnica da Escola S
+### Gabriel José Lemos, 17 anos - 3A
+### São José, 2021
 
 ## Habilidades
 - Atendimento ao Público
