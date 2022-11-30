@@ -31,7 +31,7 @@
 - [Diagrama sobre cadastro no banco](portfolioTecnico/ModelagemDeSistemas/diagrama.pdf)
 
 # Implementação e manutenção de Sistemas
-- [Arquivos do projeto final 2022](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal)
+- [Arquivos do projeto final 2022](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/readme)
 - [KickOff](portfolioTecnico/implantacaoDeSistemas/Projetos/KICKOFF 3A - Matheus F. Duarte, Victor B. de Jesus, Gabriel J. Lemos, João G. S. Porfirio, Arthur G. Roecker.pdf)
 
 # Teste de sistemas 
