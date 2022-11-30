@@ -26,7 +26,7 @@
 
 # Modelagem de Sistemas
 - [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
-- [Diagrama da copa do mundo](portfolioTecnico/ModelagemDeSistemas/copadomundojpeg.JPG)
+- [Diagrama da copa do mundo](portfolioTecnico/ModelagemDeSistemas/copadomundojpeg)
 - [Diagrama Jogos Vorazes](portfolioTecnico/ModelagemDeSistemas/JogosVorazes.drawio.pdf)
 - [Diagrama sobre cadastro no banco](portfolioTecnico/ModelagemDeSistemas/diagrama.pdf)
 
