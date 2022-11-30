@@ -21,10 +21,20 @@
 
 # Programação de Aplicativos
 - [Calculadora de horários](ProgramacaoDeAplicativos/CalculadoraDeHoras)
+- [App sorteio](ProgramacaoDeAplicativos/Sorteio.zip)
+- [Calculadora de Matriz](ProgramacaoDeAplicativos/matrizes.zip)
 
 # Modelagem de Sistemas
 - [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
+- [Diagrama da copa do mundo](portfolioTecnico/ModelagemDeSistemas/copadomundojpeg.JPG)
+- [Diagrama Jogos Vorazes](portfolioTecnico/ModelagemDeSistemas/JogosVorazes.drawio.pdf)
+- [Diagrama sobre cadastro no banco](portfolioTecnico/ModelagemDeSistemas/diagrama.pdf)
+
+# Implementação e manutenção de Sistemas
+- [Arquivos do projeto final 2022](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/)
+- [KickOff](portfolioTecnico/implantacaoDeSistemas/Projetos/KICKOFF 3A - Matheus F. Duarte, Victor B. de Jesus, Gabriel J. Lemos, João G. S. Porfirio, Arthur G. Roecker.pdf)
 
 # Teste de sistemas 
-
-- []()
+- [Teste de controle de sistemas](testeDeSistemas/Teste de controle de Erro.pdf)
+- [Teste funcional software Youtube](testeDeSistemas/Testes Funcionais Youtube.pdf)
+- [Teste funcional app Cigarro](testeDeSistemas/Teste de Sistema.pdf)
