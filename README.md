@@ -35,6 +35,6 @@
 - [KickOff](/implantacaoDeSistemas/Projetos/Projetofinal/KickOff.pdf)
 
 ## Teste de sistemas 
-- [Teste de controle de sistemas](/testeDeSistemas/Teste de controle de Erro.pdf)
-- [Teste funcional software Youtube](/testeDeSistemas/Testes Funcionais Youtube.pdf)
-- [Teste funcional app Cigarro](/testeDeSistemas/Teste de Sistema.pdf)
+- [Teste de controle de sistemas](/testeDeSistemas/testeControleErro/)
+- [Teste funcional software Youtube](/testeDeSistemas/testeFuncional/)
+- [Teste funcional app Cigarro](testeDeSistemas/testeSistemas/)
