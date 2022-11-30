@@ -3,9 +3,9 @@
 ### São José, 2022
 
 ## Habilidades
-- Atendimento ao Público
+- Comunicação avançada
 - Vendas
-- Excel 2016 - Intermediário
+- Pacote Office
 - Programação em Java - Intermediário
 
 ## Experiências 
