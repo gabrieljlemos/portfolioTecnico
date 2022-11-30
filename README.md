@@ -21,20 +21,20 @@
 
 # Programação de Aplicativos
 - [Calculadora de horários](ProgramacaoDeAplicativos/CalculadoraDeHoras)
-- [App sorteio](ProgramacaoDeAplicativos/Sorteio.zip)
-- [Calculadora de Matriz](ProgramacaoDeAplicativos/matrizes.zip)
+- [App sorteio](/ProgramacaoDeAplicativos/Sorteio.zip)
+- [Calculadora de Matriz](/ProgramacaoDeAplicativos/matrizes.zip)
 
 # Modelagem de Sistemas
 - [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
-- [Diagrama da copa do mundo](ModelagemDeSistemas/copadomundojpeg.jpg)
-- [Diagrama Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf)
-- [Diagrama sobre cadastro no banco](ModelagemDeSistemas/diagrama.pdf)
+- [Diagrama da copa do mundo](/ModelagemDeSistemas/copadomundojpeg.jpg)
+- [Diagrama Jogos Vorazes](/ModelagemDeSistemas/JogosVorazes.drawio.pdf)
+- [Diagrama sobre cadastro no banco](/ModelagemDeSistemas/diagrama.pdf)
 
 # Implementação e manutenção de Sistemas
-- [Arquivos do projeto final 2022](implantacaoDeSistemas/Projetos/Projetofinal)
+- [Arquivos do projeto final 2022](/implantacaoDeSistemas/Projetos/Projetofinal)
 - [KickOff](/implantacaoDeSistemas/Projetos/Projetofinal/KickOff.pdf)
 
 # Teste de sistemas 
-- [Teste de controle de sistemas](testeDeSistemas/Teste de controle de Erro.pdf)
-- [Teste funcional software Youtube](testeDeSistemas/Testes Funcionais Youtube.pdf)
-- [Teste funcional app Cigarro](testeDeSistemas/Teste de Sistema.pdf)
+- [Teste de controle de sistemas](/testeDeSistemas/Teste de controle de Erro.pdf)
+- [Teste funcional software Youtube](/testeDeSistemas/Testes Funcionais Youtube.pdf)
+- [Teste funcional app Cigarro](/testeDeSistemas/Teste de Sistema.pdf)
