@@ -26,13 +26,13 @@
 
 # Modelagem de Sistemas
 - [Sistema de transporte público](ModelagemDeSistemas/SistemaTransportePublico)
-- [Diagrama da copa do mundo](portfolioTecnico/ModelagemDeSistemas/copadomundojpeg.jpg)
-- [Diagrama Jogos Vorazes](portfolioTecnico/ModelagemDeSistemas/JogosVorazes.drawio.pdf)
-- [Diagrama sobre cadastro no banco](portfolioTecnico/ModelagemDeSistemas/diagrama.pdf)
+- [Diagrama da copa do mundo](ModelagemDeSistemas/copadomundojpeg.jpg)
+- [Diagrama Jogos Vorazes](ModelagemDeSistemas/JogosVorazes.drawio.pdf)
+- [Diagrama sobre cadastro no banco](ModelagemDeSistemas/diagrama.pdf)
 
 # Implementação e manutenção de Sistemas
-- [Arquivos do projeto final 2022](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/readme)
-- [KickOff](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/KickOff.pdf)
+- [Arquivos do projeto final 2022](implantacaoDeSistemas/Projetos/Projetofinal)
+- [KickOff](implantacaoDeSistemas/Projetos/Projetofinal/KickOff.pdf)
 
 # Teste de sistemas 
 - [Teste de controle de sistemas](testeDeSistemas/Teste de controle de Erro.pdf)
