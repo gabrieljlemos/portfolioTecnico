@@ -32,7 +32,7 @@
 
 # Implementação e manutenção de Sistemas
 - [Arquivos do projeto final 2022](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/readme)
-- [KickOff](portfolioTecnico/implantacaoDeSistemas/Projetos/kickofflemos.pdf)
+- [KickOff](portfolioTecnico/implantacaoDeSistemas/Projetos/Projetofinal/KickOff.pdf)
 
 # Teste de sistemas 
 - [Teste de controle de sistemas](testeDeSistemas/Teste de controle de Erro.pdf)
